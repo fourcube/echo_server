@@ -1,0 +1,8 @@
+run_erl [5997] Sun Dec 13 13:48:23 2015
+Args before exec of shell:
+run_erl [5997] Sun Dec 13 13:48:23 2015
+argv[0] = sh
+run_erl [5997] Sun Dec 13 13:48:23 2015
+argv[1] = -c
+run_erl [5997] Sun Dec 13 13:48:23 2015
+argv[2] = exec "/home/cg/elixir/echo_server/rel/echo_server/bin/echo_server" "console"

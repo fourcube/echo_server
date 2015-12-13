@@ -1,0 +1,9 @@
+{"0.0.2",
+ [{"0.0.1",[],
+   [{load_object_code,{echo_server,"0.0.2",['Elixir.EchoServer.Impl']}},
+    point_of_no_return,
+    {load,{'Elixir.EchoServer.Impl',brutal_purge,brutal_purge}}]}],
+ [{"0.0.1",[],
+   [{load_object_code,{echo_server,"0.0.1",['Elixir.EchoServer.Impl']}},
+    point_of_no_return,
+    {load,{'Elixir.EchoServer.Impl',brutal_purge,brutal_purge}}]}]}.

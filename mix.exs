@@ -3,7 +3,7 @@ defmodule EchoServer.Mixfile do
 
   def project do
     [app: :echo_server,
-     version: "0.0.1",
+     version: "0.0.2",
      elixir: "~> 1.1",
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
@@ -28,6 +28,6 @@ defmodule EchoServer.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [{:exrm, "1.0.0-rc7"}]
   end
 end

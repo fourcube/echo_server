@@ -1,0 +1,10 @@
+{release,{"echo_server","0.0.1"},
+         {erts,"7.1"},
+         [{kernel,"4.1"},
+          {stdlib,"2.6"},
+          {compiler,"6.0.1"},
+          {elixir,"1.1.1"},
+          {logger,"1.1.1"},
+          {echo_server,"0.0.1"},
+          {iex,"1.1.1"},
+          {sasl,"2.6"}]}. 
